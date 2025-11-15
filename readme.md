@@ -1,6 +1,7 @@
 # Linki
 notatniki: 
     - ToneMappingModel.ipynb: https://colab.research.google.com/drive/15uN3IISxmAZpwFY18XxCXvfR7jx0Qesc?usp=sharing
+    
 dane z dysku google: https://drive.google.com/drive/folders/1MbGrQmcQ2Wf2oGcSo33cfDGSgryL46JT?usp=sharing
 
 # Dataset
